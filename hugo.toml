@@ -1,7 +1,10 @@
 baseURL = 'https://hvitoi.github.io/vitoi-eng-seguranca/'
 title = 'Vitoi - Engenharia de Segurança do Trabalho'
-languageCode = 'pt-br'
 theme = 'hugo-universal-theme'
+languageCode = 'pt-br'
+
+defaultContentLanguage = "pt-br"
+style = "red"
 
 [params]
 disabled_logo = false
