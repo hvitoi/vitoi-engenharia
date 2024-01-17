@@ -10,7 +10,7 @@ logo = 'img/logo.png'
 logo_small = 'img/logo.png'
 
 about_us = "<p>Paellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-
+contact_url = "contact"
 address = """
             <p class="text-uppercase">
                   <strong>Universal Ltd.</strong>
@@ -22,23 +22,6 @@ address = """
                   <strong>Great Britain</strong>
             </p>
             """
-
-[params.widgets]
-categories = true
-tags = true
-search = true
-
-[params.carouselCustomers]
-items = 6
-auto_play = false
-slide_speed = 2000
-pagination_speed = 1000
-
-[params.carouselTestimonials]
-items = 4
-auto_play = false
-slide_speed = 2000
-pagination_speed = 1000
 
 [params.carouselHomepage]
 enable = true
@@ -52,30 +35,33 @@ cols = 3
 
 [params.testimonials]
 enable = true
-title = "Testimonials"
+title = "Depoimentos"
 subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.carouselTestimonials]
+items = 4
+auto_play = false
+slide_speed = 2000
+pagination_speed = 1000
 
 [params.see_more]
 enable = true
 icon = "far fa-file-alt"
-title = "Do you want to see more?"
+title = "Quer saber mais?"
 subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-link_url = "#"
-link_text = "Check other homepages"
+link_url = "contact"
+link_text = "Veja como entrar em contato"
 
 [params.clients]
 enable = true
-title = "Our Clients"
+title = "Nossos Clientes"
 subtitle = ""
 
-[params.recent_posts]
-enable = true
-title = "From our blog"
-subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
-hide_summary = false
-
-[params.footer.recent_posts]
-enable = true
+[params.carouselCustomers]
+items = 6
+auto_play = false
+slide_speed = 2000
+pagination_speed = 1000
 
 [menu]
 
