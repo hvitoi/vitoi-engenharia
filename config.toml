@@ -11,6 +11,7 @@ logo_small = 'img/logo.png'
 
 about_us = "<p>Paellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
 contact_url = "contact"
+copyright = "Copyright (c) 2015 - 2024, YourCompany; all rights reserved."
 address = """
             <p class="text-uppercase">
                   <strong>Luiz Henrique Rossi Vitoi</strong>
@@ -58,6 +59,8 @@ items = 6
 auto_play = false
 slide_speed = 2000
 pagination_speed = 1000
+
+[params.widgets]
 
 [menu]
 
