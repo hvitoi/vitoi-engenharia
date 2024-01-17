@@ -13,13 +13,9 @@ about_us = "<p>Paellentesque habitant morbi tristique senectus et netus et males
 contact_url = "contact"
 address = """
             <p class="text-uppercase">
-                  <strong>Universal Ltd.</strong>
-                  <br>13/25 New Avenue
-                  <br>Newtown upon River
-                  <br>45Y 73J
-                  <br>England
-                  <br>
-                  <strong>Great Britain</strong>
+                  <strong>Luiz Henrique Rossi Vitoi</strong>
+                  <br>Rua Barão de São João
+                  <br>São João Nepomuceno, MG
             </p>
             """
 
