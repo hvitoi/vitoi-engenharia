@@ -1,4 +1,4 @@
-baseURL = 'https://hvitoi.github.io/vitoi-eng-seguranca/'
+baseURL = 'www.vitoiengenharia.com'
 title = 'Vitoi - Engenharia de Segurança do Trabalho'
 theme = 'hugo-universal-theme'
 languageCode = 'pt-br'
