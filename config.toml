@@ -1,4 +1,4 @@
-baseURL = 'www.vitoiengenharia.com'
+baseURL = 'vitoiengenharia.com'
 title = 'Vitoi - Engenharia de Segurança do Trabalho'
 theme = 'hugo-universal-theme'
 languageCode = 'pt-br'
