@@ -33,7 +33,7 @@ cols = 3
 [params.testimonials]
 enable = true
 title = "Depoimentos"
-subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+subtitle = "Trabalhamos com muitos clientes e sempre gostamos de ouvir que eles saem da colaboração felizes e satisfeitos. Confira o que nossos clientes disseram sobre nós."
 
 [params.carouselTestimonials]
 items = 4
@@ -43,9 +43,9 @@ pagination_speed = 1000
 
 [params.see_more]
 enable = true
-icon = "far fa-file-alt"
+icon = "far fa-address-card"
 title = "Quer saber mais?"
-subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+# subtitle = ""
 link_url = "contact"
 link_text = "Veja como entrar em contato"
 
