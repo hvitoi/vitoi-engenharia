@@ -3,8 +3,10 @@ id = "contact"
 title = "Contato"
 +++
 
-## Como contactar
+## Quem sou eu
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Com uma sólida carreira de 38 anos em engenharia civil, especializei-me em diversas obras, desde pontes até instalações industriais.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Desde 2012, atuo como engenheiro de segurança do trabalho, destacando-me em projetos de combate a incêndios, com mais de 50 aprovações do Corpo de Bombeiros.
+
+Minha abordagem rigorosa e comprometimento com os mais altos padrões de segurança garantem eficácia e conformidade em cada projeto. Conte com minha experiência para assegurar a segurança e eficiência em seus empreendimentos.
