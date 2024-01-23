@@ -9,13 +9,13 @@ style = 'red'
 logo = 'img/logo.png'
 logo_small = 'img/logo.png'
 
-about_us = "<p>Paellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+about_us = "<p>Engenheiro civil e de segurança com 38 anos de experiência, especializado em diversas obras, destaque em projetos de combate a incêndios e comprometido com altos padrões de segurança.</p>"
 contact_url = "contact"
-copyright = "Copyright (c) 2015 - 2024, YourCompany; all rights reserved."
+copyright = "Copyright (c) 2012 - 2024, Vitoi Engenharia; todos os direitos reservados."
 address = """
             <p class="text-uppercase">
                   <strong>Luiz Henrique Rossi Vitoi</strong>
-                  <br>Rua Barão de São João
+                  <br>Rua Barão de São João, 33
                   <br>São João Nepomuceno, MG
             </p>
             """
@@ -70,11 +70,11 @@ name = "Início"
 url = "/"
 weight = 1
 
-[[menu.main]]
-identifier = "menu.faq"
-name = "FAQ"
-url = "/faq/"
-weight = 2
+# [[menu.main]]
+# identifier = "menu.faq"
+# name = "FAQ"
+# url = "/faq/"
+# weight = 2
 
 [[menu.main]]
 identifier = "contact"
