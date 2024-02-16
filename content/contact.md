@@ -13,4 +13,5 @@ Minha abordagem rigorosa e comprometimento com os mais altos padrões de seguran
 
 ## Redes sociais
 
-[instagram.com/vitoi.engseguranca/](https://www.instagram.com/vitoi.engseguranca/)
+- [Instagram](https://www.instagram.com/vitoi.engseguranca/)
+- [Whatsapp](https://wa.me//5532991328082?text=Gostaria%20%C2%A0de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20projeto%20de%20combate%20a%20inc%C3%AAndio)
