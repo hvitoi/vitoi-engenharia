@@ -11,7 +11,7 @@ Desde 2012, atuo como engenheiro de segurança do trabalho, destacando-me em pro
 
 Minha abordagem rigorosa e comprometimento com os mais altos padrões de segurança garantem eficácia e conformidade em cada projeto. Conte com minha experiência para assegurar a segurança e eficiência em seus empreendimentos.
 
-## Como contactar
+## Entre em contato
 
 - Instagram: [vitoi.engseguranca](https://www.instagram.com/vitoi.engseguranca/)
 - Whatsapp: [(32) 99132 8082](https://wa.me//5532991328082?text=Gostaria%20%C2%A0de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20projeto%20de%20combate%20a%20inc%C3%AAndio)
