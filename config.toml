@@ -13,9 +13,8 @@ about_us = "<p>Engenheiro civil e de segurança com 38 anos de experiência, esp
 address = """
             <p class="text-uppercase">
                   <strong>Luiz Henrique Rossi Vitoi</strong>
-                  <br>CREA-MG 42.392
-                  <br>(32) 99132 8082
                   <br>São João Nepomuceno, MG
+                  <br>CREA-MG 42.392
             </p>
             """
 
